@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"> 
+  <channel>
+    <title>SPC Forecast Products</title>
+    <link>http://www.spc.noaa.gov/</link>
+    <description>Storm Prediction Center</description>
+    <language>en-us</language>
+    <copyright>None</copyright>
+    <managingEditor>spc.feedback@noaa.gov (spc.feedback@noaa.gov)</managingEditor>
+    <webMaster>spc.feedback@noaa.gov (spc.feedback@noaa.gov)</webMaster>
+    <pubDate>Fri, 15 Dec 2017 07:13:01 +0000</pubDate>
+    <lastBuildDate>Fri, 15 Dec 2017 07:13:01 +0000</lastBuildDate>
+    <rating>general</rating>
+    <docs>http://validator.w3.org/feed/rss2.html</docs>
+    <ttl>1</ttl>
+    <atom:link href="http://www.spc.noaa.gov/products/spcrss.xml" rel="self" type="application/rss+xml" />
+
+    <image>
+      <url>http://weather.gov/images/xml_logo.gif</url>
+      <title>SPC Forecast Products</title>
+      <link>http://www.spc.noaa.gov/</link>
+    </image> 
+
+    <item>
+      <link>http://www.spc.noaa.gov/products/watch/</link>
+      <title>SPC - No watches are valid as of Fri Dec 15 07:13:01 UTC 2017</title>
+      <description>No watches are valid as of Fri Dec 15 07:13:01 UTC 2017.</description>
+      <pubDate>Fri, 15 Dec 2017 07:12:25 +0000</pubDate>
+      <guid isPermaLink="false">http://www.spc.noaa.gov/products/watch/20171215</guid>
+    </item>
+      <item>
+        <link>http://www.spc.noaa.gov/products/md/</link>
+        <title>SPC - No MDs are in effect as of Fri Dec 15 07:13:01 UTC 2017</title>
+        <description>No Mesoscale Discussions are in effect as of Fri Dec 15 07:13:01 UTC 2017.</description>
+        <pubDate>Fri, 15 Dec 2017 07:12:19 +0000</pubDate>
+        <guid isPermaLink="false">http://www.spc.noaa.gov/products/md/20171215</guid>
+      </item>
+    <item>
+      <link>http://www.spc.noaa.gov/products/outlook/day1otlk_1200.html</link>
+      <title>SPC Dec 15, 2017 0600 UTC Day 1 Convective Outlook</title>
+      <description>SPC 1200Z Day 1 Outlook
+      <![CDATA[<br /><a href="http://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="http://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1134 PM CST Thu Dec 14 2017
+
+Valid 151200Z - 161200Z
+
+...NO THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Thunderstorm threat is less than 10%.
+
+...Discussion...
+
+Southern stream has shifted to fairly low latitudes with a
+substantial upper trough expected to settle into northern Mexico.
+This feature will begin to eject toward south TX late in the day1
+period but insufficient moisture/instability will prevent
+thunderstorm development across the south-central US.
+
+Elsewhere, cool, stable conditions are not conducive for deep
+convection.
+
+..Darrow/Leitman.. 12/15/2017
+
+</pre>
+<a href="http://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+]]>
+      </description>
+      <pubDate>Fri, 15 Dec 2017 05:40:37 +0000</pubDate>
+      <guid isPermaLink="false">http://www.spc.noaa.gov/products/outlook/day1otlk_1200.html/201712150713</guid>
+    </item>
+    <item>
+      <link>http://www.spc.noaa.gov/products/outlook/day2otlk_0700.html</link>
+      <title>SPC Dec 15, 2017 0700 UTC Day 2 Convective Outlook</title>
+      <description>SPC 0700Z Day 2 Outlook
+      <![CDATA[<br /><a href="http://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="http://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1150 PM CST Thu Dec 14 2017
+
+Valid 161200Z - 171200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Isolated thunderstorms will be possible across the middle and upper
+Texas coast late Saturday evening and across southwest Louisiana
+Saturday night into early Sunday morning.
+
+...DISCUSSION...
+A low-amplitude upper-ridge will move eastward from the Great Plains
+into the Mississippi Valley on Saturday as an upper-level trough
+moves across northern Mexico. This feature will reach the southern
+Plains Saturday night with a 40 to 55 kt low-level jet strengthening
+ahead of the trough. As the trough moves quickly northeastward,
+low-level moisture over the western Gulf of Mexico will advect
+northward to the upper Texas Coast around midnight. Isolated
+thunderstorms may develop with this convection spreading eastward
+into southwestern Louisiana during the overnight period. Although
+surface dewpoints are forecast to reach the lower 60s F in far
+southwestern Louisiana during the 09Z to 12Z time-frame, a sharp
+surface inversion will be in place evident on forecast soundings.
+This will keep any convection elevated in nature. For this reason, a
+severe threat is not expected early Sunday morning.
+
+Elsewhere across the CONUS, thunderstorm activity is not forecast
+during the day 2 period.
+
+..Broyles.. 12/15/2017
+
+</pre>
+<a href="http://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+]]>
+      </description>
+      <pubDate>Fri, 15 Dec 2017 05:53:37 +0000</pubDate>
+      <guid isPermaLink="false">http://www.spc.noaa.gov/products/outlook/day2otlk_0700.html/201712150713</guid>
+    </item>
+    <item>
+      <link>http://www.spc.noaa.gov/products/outlook/day3otlk_0830.html</link>
+      <title>SPC Dec 15, 2017 0830 UTC Day 3 Severe Thunderstorm Outlook</title>
+      <description>SPC 0830Z Day 3 Outlook
+      <![CDATA[<br /><a href="http://www.spc.noaa.gov/products/outlook/day3otlk.html"><img src="http://www.spc.noaa.gov/products/outlook/day3otlk.gif" border="1" alt="Day 3 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0109 AM CST Fri Dec 15 2017
+
+Valid 171200Z - 181200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+THE LOWER MISSISSIPPI VALLEY...
+
+...SUMMARY...
+Thunderstorms will likely develop on Sunday across parts of the
+central Gulf Coast region including the lower Mississippi Valley. A
+few damaging wind gusts and a marginal tornado threat will be
+possible.
+
+...Lower Mississippi Valley...
+A shortwave trough will move quickly northeastward into the mid
+Mississippi Valley on Sunday as southwest mid-level flow remains in
+place across the Gulf Coast Region. At the surface, moisture
+advection will continue across the lower Mississippi Valley where
+surface dewpoints are forecast to reach the lower to mid 60s F
+across southeastern Louisiana and southern Mississippi by midday.
+Isolated to scattered thunderstorms are forecast to be ongoing in
+southwestern Louisiana at the beginning of the period with this
+convection spreading eastward into the lower Mississippi Valley by
+early afternoon. NAM and GFS forecast soundings at New Orleans,
+Louisiana and Mobile, Alabama at 21Z Sunday afternoon show weak
+instability with strong deep-layer shear. Although MLCAPE values are
+only forecast to be in the 250 to 500 J/kg range, 0-6 km shear
+values could be as high as 50 kt. This would be enough for a
+marginal severe threat making isolated damaging wind gusts possible
+with the stronger thunderstorms. 0-1 km shear of 25 to 30 kt will
+also make storm rotation possible and a marginal tornado threat can
+not be ruled out. As moisture advection continues and the shear
+environment is maintained during the evening and overnight period, a
+marginal severe threat could persist across the region.
+
+..Broyles.. 12/15/2017
+
+</pre>
+<a href="http://www.spc.noaa.gov/products/outlook/day3otlk.html">Read more</a>
+]]>
+      </description>
+      <pubDate>Fri, 15 Dec 2017 07:12:55 +0000</pubDate>
+      <guid isPermaLink="false">http://www.spc.noaa.gov/products/outlook/day3otlk_0830.html/201712150713</guid>
+    </item>
+        <item>
+          <link>http://www.spc.noaa.gov/products/fire_wx/fwdy1.html</link>
+          <title>SPC Day 1 Fire Weather Outlook</title>
+          <description>SPC Day 1 Fire Weather Outlook
+          <![CDATA[<br /><a href="http://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="http://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0102 AM CST Fri Dec 15 2017
+
+Valid 151200Z - 161200Z
+
+...CRITICAL FIRE WEATHER AREA FOR PORTIONS OF SOUTHERN CALIFORNIA...
+
+...Synopsis...
+...Portions of Central CA...
+
+An upper ridge over the western U.S. will break down this period as
+a shortwave trough moves over the Pacific Northwest. Overnight this
+trough will dig southward, becoming oriented from southwest MT to
+southern CA by Saturday morning. Strong deep-layer northerly flow on
+the back side of the trough will overspread the Pacific Northwest
+and much of California. Elevated to locally critical conditions are
+expected to develop over the mountains and foothills in the vicinity
+of the Bay Area along the central CA coast and adjacent portions of
+the Sacramento Valley late in the period. In higher elevations, RH
+values will begin to fall into the 20-35 percent range early
+Saturday morning as sustained north winds increase to 15-25 mph with
+higher gusts. 
+
+...Portions of Southern CA...
+
+High pressure over the Great Basin this morning will weaken later
+today as the upper ridge breaks down ahead of the shortwave trough
+moving into the Pacific Northwest. Gusty offshore winds will
+continue across the southern CA mountains and foothills this morning
+and several hours of critical conditions are expected. While wind
+speeds are then expected to weaken during the afternoon and evening,
+conditions will remain very dry and elevated fire weather conditions
+will continue for much of the period, especially in higher
+elevations where overnight RH recovery will be poor.
+
+..Leitman.. 12/15/2017
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="http://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+]]>
+          </description>
+          <pubDate>Fri, 15 Dec 2017 07:05:22 +0000</pubDate>
+          <guid isPermaLink="false">http://www.spc.noaa.gov/products/fire_wx/fwdy1.html/201712150713</guid>
+        </item>
+        <item>
+          <link>http://www.spc.noaa.gov/products/fire_wx/fwdy2.html</link>
+          <title>SPC Day 2 Fire Weather Outlook</title>
+          <description>SPC Day 2 Fire Weather Outlook
+          <![CDATA[<br /><a href="http://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="http://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0106 AM CST Fri Dec 15 2017
+
+Valid 161200Z - 171200Z
+
+...CRITICAL FIRE WEATHER AREA FOR PORTIONS OF CENTRAL CALIFORNIA...
+...CRITICAL FIRE WEATHER AREA FOR PORTIONS OF SOUTHERN CALIFORNIA...
+
+...Synopsis...
+Strong northerly deep-layer flow on the back side of an amplifying
+upper trough over the western U.S. will overspread much of the
+California on Saturday. At the surface, a cold front will move
+southeast across the Great Basin and high pressure will build over
+the region late in the period. Further east, a lee low will develop
+over the central High Plains and a tightening surface pressure
+gradient will aid in the development of breezy south/southwesterly
+winds across portions of the central and southern Plains. 
+
+...Portions of Central into Northern CA...
+
+Elevated fire weather conditions will be widespread from the central
+coast into the Sacramento and portions of the San Joaquin Valleys as
+gusty north to northeast winds overspread the region and RH values
+fall into the 15-35 percent range. In the vicinity of the Bay Area
+mountains and foothills, critical fire weather conditions are
+expected to develop during the morning hours and continue into
+Sunday morning.  The strongest north winds are expected to align
+with lower RH values in this area. Sustained north/northeast winds
+of 20-30 mph with higher gusts will be possible in the mountains and
+foothills, where RH values will fall into the 15-25 percent range.
+Winds will remain gusty into the overnight hours and RH recovery
+will be poor in the mountains.
+
+...Portions of Southern CA...
+
+As high pressure settles back into the Great Basin Saturday night,
+the pressure gradient will again become favorable for gusty offshore
+winds. Wind speeds are expected to increase across the L.A. and
+Ventura County mountains after dark and sustained speeds of 20-30
+mph with higher gusts are expected. RH values across the mountains
+will remain low, in the 10-20 percent range. As a result, critical
+fire weather conditions are expected to develop once again Saturday
+night into Sunday morning. 
+
+...Portions of the Central/Southern High Plains...
+
+Breezy south/southwest winds are expected during the afternoon as a
+lee low develops over eastern CO. A dry airmass will be in place and
+warm afternoon temperatures resulting in boundary-layer mixing to
+around 2-3kft will allow for RH values falling into the 20-30
+percent range. Sustained wind speeds of 10-15 mph with higher gusts
+will result in widespread elevated to locally critical fire weather
+conditions during the afternoon.
+
+..Leitman.. 12/15/2017
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="http://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+]]>
+          </description>
+          <pubDate>Fri, 15 Dec 2017 07:08:02 +0000</pubDate>
+          <guid isPermaLink="false">http://www.spc.noaa.gov/products/fire_wx/fwdy2.html/201712150713</guid>
+        </item>
+  </channel>
+</rss>
